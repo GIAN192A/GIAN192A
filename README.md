@@ -1,4 +1,4 @@
-## Hi there 👋
+## Eai, ja vui muito pode ir embora
 
 <!--
 **GIAN192A/GIAN192A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
